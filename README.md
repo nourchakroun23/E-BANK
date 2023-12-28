@@ -10,7 +10,7 @@ Cette application bancaire en langage C permet aux utilisateurs de gérer des co
   
 - **Gestion des Comptes :** Permet la mise à jour des informations des comptes et la suppression de comptes existants.
 
-- **Affichage des données :** Permet l'affichage du listes des clients et les transactions faites pour un compte ou par un jour précis
+- **Affichage des données :** Permet l'affichage du liste des clients et les transactions faites pour un compte ou par un jour précis
 
 ## Comment Utiliser
 
